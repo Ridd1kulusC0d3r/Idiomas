@@ -47,7 +47,7 @@ Comparativos e Superlativos: "bigger", "the biggest".
 
 10. Relativos
 ⭐ Who, Whom, Whose, Which, That: para dar informações adicionais sobre um substantivo, e.g., "The woman who called you is my friend".
-
+ 
 
 11. Condicional Simples
 ⭐ First Conditional: "If + present simple, ... will + infinitive", e.g., "If it rains, I will stay home".
