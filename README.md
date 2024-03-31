@@ -1,6 +1,6 @@
 # Minhas anotações públicas sobre estudo de outros idiomas
 
-- A ideia aqui é compartilhar minha evolução:
+- A ideia aqui é compartilhar minha evolução: 
 
   # Plano de Estudos para Aprendizado de Línguas
 
